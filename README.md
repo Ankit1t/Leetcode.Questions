@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit1t/Leetcode.Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
