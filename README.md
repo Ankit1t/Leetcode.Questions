@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
