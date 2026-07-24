@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0169-majority-element) |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0905-sort-array-by-parity) |
