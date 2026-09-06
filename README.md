@@ -51,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit1t/Leetcode.Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankit1t/Leetcode.Questions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankit1t/Leetcode.Questions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankit1t/Leetcode.Questions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
