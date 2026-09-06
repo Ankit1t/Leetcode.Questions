@@ -52,6 +52,7 @@
 | [0050-powx-n](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankit1t/Leetcode.Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankit1t/Leetcode.Questions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/Ankit1t/Leetcode.Questions/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ankit1t/Leetcode.Questions/tree/master/0074-search-a-2d-matrix) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/Ankit1t/Leetcode.Questions/tree/master/4022-k-th-digit-in-infinite-string) |
 ## String
 |  |
 | ------- |
